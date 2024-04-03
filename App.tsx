@@ -7,12 +7,12 @@ import RootNavigator from './src/assets/Navigator/RootNavigator';
 const App = () => {
   return (
     <SafeAreaProvider>
-      <NavigationContainer>
+       <NavigationContainer>
         <RootNavigator />
-      </NavigationContainer>
+       </NavigationContainer>
     </SafeAreaProvider>
-  )
-}
+  );
+};
 
 export default App;
 
