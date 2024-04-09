@@ -1,4 +1,4 @@
-import {StyleSheet} from 'react-native';
+import {} from 'react-native';
 import React from 'react';
 import {createDrawerNavigator} from '@react-navigation/drawer';
 import MedicalScreen from '../screens/DrawerScreen/MedicalScreen';
